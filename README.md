@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on sensor integration and cloud operations<br>🌱 I’m currently learning Google Cloud Platform and FastAPI
+🔭 I’m currently working on sensor integration and cloud operations<br>🌱 I’m currently learning Google Cloud Platform and FastAPI<br>👨‍💻I am also developing my homelab using an old pc and a Raspberry Pi 5.
 
 
 ## 🌐 Socials:
