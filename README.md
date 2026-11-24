@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 MSc Autonomous Systems student at the Technical University of Denmark (DTU).<br>
+🎓 Second year MSc Autonomous Systems student at the Technical University of Denmark (DTU).<br>
 🔭 Working on sensor integration, cloud infrastructure, and full-stack development.<br>
 🚀 Building **[ExamFlow](https://examflowapp.com)** — an AI-powered study platform, and **[MiniPause](https://minipause.vercel.app)** — an Android app for healthier screen-time habits.<br>
 🤖 Interested in robotics, machine learning, and developing intelligent systems.<br>
