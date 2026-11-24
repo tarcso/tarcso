@@ -1,6 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on sensor integration and cloud operations<br>🌱 I’m currently learning Google Cloud Platform and FastAPI<br>👨‍💻I am also developing my homelab using an old pc and a Raspberry Pi 5.
-
+🎓 MSc Autonomous Systems student at the Technical University of Denmark (DTU).<br>
+🔭 Working on sensor integration, cloud infrastructure, and full-stack development.<br>
+🚀 Building **[ExamFlow](https://examflowapp.com)** — an AI-powered study platform, and **[MiniPause](https://minipause.vercel.app)** — an Android app for healthier screen-time habits.<br>
+🤖 Interested in robotics, machine learning, and developing intelligent systems.<br>
+🖥️ Running my own homelab with a Linux server and Raspberry Pi 5.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tarnai.csongor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/csongor-tarnai-65a4042b5) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tarnai.csongor@gmail.com) 
